@@ -1,3 +1,5 @@
+//script file for footer and header, used in all HTML files
+
 function loadFooter() {
     let request = new XMLHttpRequest();
     request.onreadystatechange = function() {
